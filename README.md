@@ -10,3 +10,5 @@ Once those packages have been successfully removed, rebuild your environment by 
 After that enter Jupyter notebook and jupyter notebook should be up and running.
 
 If you have any question, I will be glad to answer them. Good luck.👍🏾
+
+My journey in machine learning engineer 
