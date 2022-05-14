@@ -1,0 +1,1 @@
+Natural Language Processing is the practice of teaching machines to understand and interpret conversational inputs from humans. NLP based on Machine Learning can be used to establish communication channels between humans and machines. Although continuously evolving, NLP has already proven useful in multiple fields.
