@@ -1,1 +1,1 @@
-They all about course Machine Learning in 
+They all about course Machine Learning in Dicoding Academy 
