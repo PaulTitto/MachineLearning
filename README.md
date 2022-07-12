@@ -5,4 +5,4 @@ Four subject areas provide strong foundations for understanding and applying mac
 
 
 ### Linear Algebra
-  * 3Blue1Brown on YouTube
+  * 3Blue1Brown on YouTube : [Link](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
